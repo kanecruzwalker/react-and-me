@@ -2,9 +2,6 @@ import React from "react";
 import Container from "../components/Container.js"
 import Row from "../components/Row.js"
 import Col from "../components/Col/Col"
-import Card from "react-bootstrap/Card"
-import Image from "react-bootstrap/Image"
-import image from "../images/image1.jpeg"
 import Header from "../components/Header"
 import AskMe from "../components/contactForm"
 
