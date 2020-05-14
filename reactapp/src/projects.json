@@ -1,0 +1,38 @@
+[
+    {
+        "id": 1,
+        "name": "Weather App",
+        "description": "Application that makes use of open weather API to display daily and 5 day forecast including a range of weather values and emoticons.",
+        "image": "https://wi-images.condecdn.net/image/doEYpG6Xd87/crop/810/f/weather.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Quiz App",
+        "description": "A basic quiz application to test knowlege on coding concepts and tools.",
+        "image": "https://careerswithstem.com.au/wp-content/uploads/2019/09/shutterstock_663203059-Custom.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Password Generator",
+        "description": "A application that generates a password based on users desired parameters.  ",
+        "image": "https://about.fb.com/wp-content/uploads/2019/03/newsroom-hero-image-password-security.png?w=1440"
+    },
+    {
+        "id": 4,
+        "name": "Movie and Show Scraper ",
+        "description": "By implementing movie API's a team and I were able to create an application that tells the user where a desired flick can be viewed between all the different streaming platforms.",
+        "image": "https://s3.amazonaws.com/wevv-com-44a/wp-content/uploads/20191114110200/MGN_1280x720_91112B00-WHJXX-780x405.jpg"
+    },
+    {
+        "id": 5,
+        "name": "DND Character Generator App",
+        "description": "Making use of yet another api and now a database, my team and I were able to generate standard DND characters based of chosen classes and allow users to reference the characters made at a later date.",
+        "image": "https://i.imgur.com/rYXkmb2.png"
+    },
+    {
+        "id": 6,
+        "name": "Widgets on Widgets ",
+        "description": "With a group of fellow developers we were able to create a outdoors based application to ease the process of enjoying time outdoors while being aware of possible enviromental factors.",
+        "image": "https://www.tristonmorgan.com/wp-content/uploads/2016/04/Great-Outdoors-e1457209356889.jpg"
+    }
+]
